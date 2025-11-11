@@ -14,7 +14,7 @@ fun main() {
     println("Greater number is: $c")
 
 
-    // ---------------------------------------------------
+    // -------------------------------------------------------------------------------
     var marks = 50
 
     var grade = if(marks>60) "Excellent" else if(marks<60 && marks>45) "Good" else "Poor"

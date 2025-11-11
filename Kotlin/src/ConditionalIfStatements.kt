@@ -17,7 +17,7 @@ fun main() {
     // -------------------------------------------------------------------------------
     var marks = 50
 
-    var grade = if(marks>60) "Excellent" else if(marks<60 && marks>45) "Good" else "Poor"
+    var grade = if(marks>60) "Excellent" else if(marks<60 && marks>40) "Good" else "Poor"
     println("Your grade is: $grade")
 
 }

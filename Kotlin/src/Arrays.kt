@@ -12,7 +12,7 @@ fun main() {
 //    }
 
     array2[2] = "Math"
-    array2.set(1,"Biology")
+    array2.set(1,"Biology") // we can use set() method in an array to set the value in particular index
 
     println("array2[2]: ${array2[2]}")
     println(array2.get(3))

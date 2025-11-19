@@ -19,7 +19,7 @@ class Car(carColor: String):Vehicle(carColor){
     }
     override var name = "Car" // base class property (name) override in child class
     override fun drive(){
-        super.drive() // Vehicle is driving
+        super.drive() // Vehicle is driving ( I want to execute base class method (drive()))
         println("Car is driving")
     }
 }

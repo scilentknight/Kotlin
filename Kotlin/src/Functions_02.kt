@@ -15,7 +15,7 @@ fun main() {
     var num2 = 50
 //    var add = ::sum
 //    print(add(2,5))
-    // function overloading
+//     function overloading
     var add = sum(4,5,6)
     print("Addition is: $add")
 }

@@ -1,4 +1,4 @@
-//fun main(){
+//fun Encapsulation.main(){
 //    var num1 = 10
 //    var num2 = 20
 //    add(num1,num2)
